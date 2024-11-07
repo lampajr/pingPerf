@@ -13,3 +13,5 @@ src/main/webapp/META-INF/MANIFEST.MF
 wlp/
 /.apt_generated_tests
 tmp
+logs
+.idea
